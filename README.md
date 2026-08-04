@@ -17,7 +17,7 @@ This project presents an interactive **Ice Cream Sales Analysis Dashboard** deve
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Power BI Desktop
 - Microsoft Excel
