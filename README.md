@@ -1,98 +1,71 @@
-# Ice Cream Sales Analysis Dashboard 
+Ice Cream Sales Analytics Dashboard
 
-## Project Overview
+Project Overview
 
-This project presents an interactive **Ice Cream Sales Analysis Dashboard** developed using Microsoft Power BI. The dashboard provides valuable insights into sales performance, profit, customer orders, and product trends using interactive visualizations.
+This project analyzes ice cream sales data using Python, Excel, and Power BI. The data was cleaned and prepared using Python and Excel, and an interactive Power BI dashboard was created to understand sales performance and generate useful business insights.
 
----
+Tools and Technologies
 
-## Objectives
+Python - Data cleaning and analysis
+Microsoft Excel - Data preparation and analysis
+Power BI - Dashboard and data visualization
 
-- Analyze total sales and profit
-- Monitor monthly sales trends
-- Identify top-selling ice cream flavors
-- Compare sales across cities and regions
-- Analyze sales by payment method
-- Create an interactive dashboard using Power BI
+Project Workflow
 
----
+Raw Sales Data
+↓
+Python
+Data Cleaning and Analysis
+↓
+Excel
+Data Preparation
+↓
+Power BI
+Interactive Dashboard
+↓
+Business Insights
 
-## Tools Used
+Analysis
 
-- Microsoft Power BI Desktop
-- Microsoft Excel
-- Power Query
-- DAX
+The project focuses on:
 
----
+Total Sales
+Total Profit
+Product Performance
+Sales Trends
+Quantity Sold
+Revenue Analysis
+Key Business KPIs
 
-## Dashboard Features
+Key Insights
 
-### KPI Cards
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Quantity Sold
-- Profit Margin
+Analyzed overall sales and profit performance.
 
-### Charts
-- Monthly Sales Trend
-- Sales by Flavor
-- Monthly Sales by City
-- Sales by Region
-- Sales by Payment Method
-- Top Selling Flavors
+Identified product-level sales patterns.
 
-### Interactive Filters
-- Date
-- City
-- Flavor
-- Region
-- Payment Method
+Compared sales performance across different categories.
 
----
+Created visual KPIs to understand business performance.
 
-##  Dataset
+Used dashboard visuals to support data-driven decisions.
 
-The dataset contains information about:
+Dashboard
 
-- Order ID
-- Date
-- City
-- Region
-- Flavor
-- Category
-- Quantity
-- Unit Price
-- Sales
-- Profit
-- Payment Method
+The Power BI dashboard provides an interactive view of the sales data and allows users to explore important business metrics.
 
----
+Skills Demonstrated
 
+Python
+Excel
+Power BI
+Data Cleaning
+Data Analysis
+Data Visualization
+Business Intelligence
 
+Author
 
+Ajay Vasudevan
 
-## Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX Measures
-- Interactive Dashboard Design
-- Business Intelligence
-- Data Visualization
-
----
-
-## Business Insights
-
-- Identified top-selling ice cream flavors.
-- Compared monthly sales across cities.
-- Analyzed regional sales performance.
-- Measured profit margin and total profit.
-- Created interactive reports for decision-making.
-
----
-
-
+GitHub:
+https://github.com/ajayvasudevancbe-Datascience
